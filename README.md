@@ -9,7 +9,8 @@ Tests are designed using Page Object Model.
 
 ## Local Set-up
 1. Clone repository: Nesto_Cypress_Automation
-2. Install dependencies: npm ci
+2. Install cypress using `npm install cypress --save-dev`
+3. Install dependencies: npm ci
 
 ## Tests run
 1. To run all tests in headless mode, use `npx cypress run loginpage-workflow` for two default browsers Chrome and Electron
