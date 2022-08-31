@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "loginpage-workflow": "cypress/integration/nesto/tests --headed --browser Chrome"
+    "loginpage-workflow": "cypress/integration/nesto/tests"
   },
   "author": "",
   "license": "ISC",
