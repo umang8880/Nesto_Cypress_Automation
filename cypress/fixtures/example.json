@@ -1,0 +1,9 @@
+{
+  "LoginURL": "https://app.qa.nesto.ca/login",
+  "ForgotPasswordUrl": "https://app.qa.nesto.ca/forgot",
+  "SignUpUrl": "https://app.qa.nesto.ca/signup",
+  "ValidEmail": "parekhumangr@gmail.com",
+  "ValidPassword": "Test@123",
+  "InvalidEmail": "umang@gmail.com",
+  "InvalidPassword": "12345"
+}
