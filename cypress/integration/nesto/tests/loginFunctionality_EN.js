@@ -6,8 +6,9 @@ beforeEach(() => {
         return false
     })
     cy.visit('/login')
+    loginPage.changeLocale('EN')
 })
-describe('Login Page Suite', () => {
+describe('Login Page Suite For EN locale', () => {
 
     let data
     before(function () {

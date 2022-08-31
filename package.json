@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "loginpage-workflow": "cypress/integration/nesto/tests --headed --browser Chrome"
   },
   "author": "",
   "license": "ISC",
